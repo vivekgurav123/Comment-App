@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.comment {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.space {
+  max-width: 1140px;
+  margin: auto;
+  padding: 70px 0;
+}
+/* .bg-container {
+  padding: 70px auto;
+} */
+.comment-list {
+  list-style: none;
+  padding: 0;
+}
